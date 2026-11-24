@@ -67,37 +67,37 @@ The following steps were performed:
 
 Examined total funding, average funding, median funding and funding record counts across industries.
 
-![Industry Funding Analysis](charts/industry_funding.png)
+![Industry Funding Analysis](charts/industry_total_funding.png)
 
 ### 6.2 Location-wise Funding Analysis
 
 Compared funding across startup locations and identified the leading funding hubs.
 
-![Location Funding Analysis](charts/location_funding.png)
+![Location Funding Analysis](charts/location_startup_funding.png)
 
 ### 6.3 Year-wise Funding Analysis
 
 Analysed annual funding totals and the number of funding records from 2018 to 2021.
 
-![Yearly Funding Analysis](charts/yearly_funding.png)
+![Yearly Funding Analysis](charts/total_startup_funding.png)
 
 ### 6.4 Startup-wise Funding Analysis
 
 Identified startups with the highest cumulative recorded funding.
 
-![Startup Funding Analysis](charts/startup_funding.png)
+![Startup Funding Analysis](charts/number_of_startup_funding.png)
 
 ### 6.5 Investor-wise Funding Analysis
 
 Examined investor names associated with the highest funding amounts.
 
-![Investor Funding Analysis](charts/investor_funding.png)
+![Investor Funding Analysis](charts/investors_associated_funding.png)
 
 ### 6.6 Funding Type Analysis
 
 Compared funding totals across different funding stages and types.
 
-![Funding Type Analysis](charts/funding_type.png)
+![Funding Type Analysis](charts/total_funding_by_funding_type.png)
 
 ## 7. Key Business Findings
 
